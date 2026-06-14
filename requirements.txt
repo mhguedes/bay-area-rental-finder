@@ -1,0 +1,2 @@
+# No third-party dependencies. build_site.py uses only the Python standard library.
+# (Scraping runs in the Claude app via its web tools, not in this repo.)
