@@ -1,19 +1,8 @@
 {
-  "updated": "Tuesday, July 28, 2026 at 7:17 AM",
+  "updated": "Thursday, July 30, 2026 at 9:09 AM",
   "listings": [
     {
-      "title": "Lovely cozy little cottage tucked in the private corner of a garden",
-      "price": 1800,
-      "city": "Menlo Park",
-      "dist": 0.0,
-      "tier": 0,
-      "tierLabel": "Priority 1 \u00b7 Menlo Park",
-      "url": "https://sfbay.craigslist.org/pen/apa/d/menlo-park-lovely-cozy-little-cottage/7936493194.html",
-      "source": "Craigslist",
-      "rank": 1
-    },
-    {
-      "title": "Apartment, furnished, near Stanford and SLAC",
+      "title": "Apartment, Furnished, near Stanford and SLAC",
       "price": 2350,
       "city": "Menlo Park",
       "dist": 0.0,
@@ -21,7 +10,7 @@
       "tierLabel": "Priority 1 \u00b7 Menlo Park",
       "url": "https://sfbay.craigslist.org/pen/apa/d/atherton-apartment-furnished-near/7938531992.html",
       "source": "Craigslist",
-      "rank": 2
+      "rank": 1
     },
     {
       "title": "The Pines, 3465 Alameda de las Pulgas, Menlo Park (1bd from $2,795)",
@@ -32,10 +21,21 @@
       "tierLabel": "Priority 1 \u00b7 Menlo Park",
       "url": "https://www.zillow.com/apartments/menlo-park-ca/the-pines/CkM9YF/",
       "source": "Zillow",
+      "rank": 2
+    },
+    {
+      "title": "Lovely cozy little cottage tucked in the private corner of a garden",
+      "price": 1800,
+      "city": "Menlo Park",
+      "dist": 0.5,
+      "tier": 0,
+      "tierLabel": "Priority 1 \u00b7 Menlo Park",
+      "url": "https://sfbay.craigslist.org/pen/apa/d/menlo-park-lovely-cozy-little-cottage/7936493194.html",
+      "source": "Craigslist",
       "rank": 3
     },
     {
-      "title": "1BR/1BA apartment (undisclosed address), Menlo Park",
+      "title": "1BR/1BA 400 sqft (undisclosed address), Menlo Park",
       "price": 2050,
       "city": "Menlo Park",
       "dist": 0.5,
@@ -57,7 +57,7 @@
       "rank": 5
     },
     {
-      "title": "Top floor corner 1br near Downtown Menlo Park, parking included",
+      "title": "Top floor corner 1br near Downtown Menlo Park! Parking included!",
       "price": 2495,
       "city": "Menlo Park",
       "dist": 0.5,
@@ -156,7 +156,7 @@
       "rank": 14
     },
     {
-      "title": "Luxurious, fully equipped 1 bedroom suite near Facebook",
+      "title": "Luxurious, fully equipped, 1 bedroom suite near Facebook",
       "price": 2250,
       "city": "Menlo Park",
       "dist": 2.6,
@@ -211,7 +211,7 @@
       "rank": 19
     },
     {
-      "title": "Excellent location, downtown, 2 blocks from University Ave",
+      "title": "Excellent location, downtown 2 blocks from University Ave",
       "price": 2650,
       "city": "Palo Alto",
       "dist": 1.4,
@@ -233,7 +233,7 @@
       "rank": 21
     },
     {
-      "title": "Charming garden courtyard, newly remodeled",
+      "title": "Charming Garden Courtyard, Newly Remodeled",
       "price": 2650,
       "city": "Palo Alto",
       "dist": 2.5,
@@ -244,6 +244,17 @@
       "rank": 22
     },
     {
+      "title": "962 Blair Ct, Palo Alto (1bd from $2,750)",
+      "price": 2750,
+      "city": "Palo Alto",
+      "dist": 2.5,
+      "tier": 1,
+      "tierLabel": "Priority 2 \u00b7 Palo Alto",
+      "url": "https://www.zillow.com/b/962-blair-ct-palo-alto-ca/37.443016,-122.12769_ll/",
+      "source": "Zillow",
+      "rank": 23
+    },
+    {
       "title": "Arastradero West Apartments, 724 Arastradero Rd, Palo Alto (1bd from $3,000)",
       "price": 3000,
       "city": "Palo Alto",
@@ -252,7 +263,7 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://www.zillow.com/apartments/palo-alto-ca/arastradero-west-apartments/5XjQFX/",
       "source": "Zillow",
-      "rank": 23
+      "rank": 24
     },
     {
       "title": "Stanford Villa, 3375 Alma St, Palo Alto (1bd from $3,030)",
@@ -263,10 +274,10 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://www.zillow.com/apartments/palo-alto-ca/stanford-villa/CqRNdw/",
       "source": "Zillow",
-      "rank": 24
+      "rank": 25
     },
     {
-      "title": "Close to restaurants, close to schools, BBQ",
+      "title": "Close to Restaurants, Close to Schools, BBQ",
       "price": 3070,
       "city": "Palo Alto",
       "dist": 2.5,
@@ -274,7 +285,7 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-close-to-restaurants-close-to/7941211920.html",
       "source": "Craigslist",
-      "rank": 25
+      "rank": 26
     },
     {
       "title": "Parksquare Apartments, 4290 Wilkie Way #B, Palo Alto",
@@ -285,10 +296,21 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://www.zillow.com/apartments/palo-alto-ca/parksquare-apartments/CjhG8k/",
       "source": "Zillow",
-      "rank": 26
+      "rank": 27
     },
     {
-      "title": "Palo Alto house with garden, 1 bed 1 bath",
+      "title": "Parker Palo Alto, 1094 Tanland Dr, Palo Alto (1bd from $3,395)",
+      "price": 3395,
+      "city": "Palo Alto",
+      "dist": 2.5,
+      "tier": 1,
+      "tierLabel": "Priority 2 \u00b7 Palo Alto",
+      "url": "https://www.zillow.com/apartments/palo-alto-ca/parker-palo-alto/5XjNCz/",
+      "source": "Zillow",
+      "rank": 28
+    },
+    {
+      "title": "Palo Alto House with Garden 1 Bed 1 Bath",
       "price": 3485,
       "city": "Palo Alto",
       "dist": 2.5,
@@ -296,10 +318,10 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-palo-alto-house-with-garden/7941248479.html",
       "source": "Craigslist",
-      "rank": 27
+      "rank": 29
     },
     {
-      "title": "Palo Alto 1bd/1bath condo, University and 101",
+      "title": "Palo Alto 1bd/1bath condo University and 101",
       "price": 2400,
       "city": "Palo Alto",
       "dist": 3.9,
@@ -307,18 +329,7 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-palo-alto-1bd-1bath-condo/7940550723.html",
       "source": "Craigslist",
-      "rank": 28
-    },
-    {
-      "title": "Parker Palo Alto, 1094 Tanland Dr, Palo Alto (1bd from $3,395)",
-      "price": 3395,
-      "city": "Palo Alto",
-      "dist": 3.9,
-      "tier": 1,
-      "tierLabel": "Priority 2 \u00b7 Palo Alto",
-      "url": "https://www.zillow.com/apartments/palo-alto-ca/parker-palo-alto/5XjNCz/",
-      "source": "Zillow",
-      "rank": 29
+      "rank": 30
     },
     {
       "title": "1875 University Ave #A, Palo Alto",
@@ -329,10 +340,10 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://www.zillow.com/homedetails/1875-University-Ave-A-Palo-Alto-CA-94301/2061512862_zpid/",
       "source": "Zillow",
-      "rank": 30
+      "rank": 31
     },
     {
-      "title": "Perfect location - furnished apt next to Stanford campus",
+      "title": "Perfect Location - Furnished Apt next to Stanford Campus",
       "price": 2995,
       "city": "Stanford",
       "dist": 1.7,
@@ -340,10 +351,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/stanford-perfect-location-furnished-apt/7940955784.html",
       "source": "Craigslist",
-      "rank": 31
+      "rank": 32
     },
     {
-      "title": "Guest house with private entrance, bath, bedroom, living/dining",
+      "title": "Guest house w/ private entrance, bath, bedroom, living/dining",
       "price": 1840,
       "city": "East Palo Alto",
       "dist": 3.0,
@@ -351,10 +362,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-guest-house-private-entrance/7936986828.html",
       "source": "Craigslist",
-      "rank": 32
+      "rank": 33
     },
     {
-      "title": "1x1 wonderful apartment, great location",
+      "title": "1x1 Wonderful Apartment, Great Location!",
       "price": 2123,
       "city": "Redwood City",
       "dist": 3.4,
@@ -362,7 +373,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-1x1-wonderful-apartment/7938987048.html",
       "source": "Craigslist",
-      "rank": 33
+      "rank": 34
     },
     {
       "title": "Apartment for rent Redwood City",
@@ -373,10 +384,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-apartment-for-rent-redwood/7938443707.html",
       "source": "Craigslist",
-      "rank": 34
+      "rank": 35
     },
     {
-      "title": "Updated 1/1 front unit with washer/dryer and private attached garage",
+      "title": "Updated 1/1 front unit with washer/dryer and private attached garage!",
       "price": 2600,
       "city": "Redwood City",
       "dist": 3.4,
@@ -384,27 +395,16 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/atherton-updated-1-front-unit-with/7940082247.html",
       "source": "Craigslist",
-      "rank": 35
+      "rank": 36
     },
     {
-      "title": "Pre-leasing: spacious top floor 1BR/1BA apartment in Redwood City",
+      "title": "PRE-LEASING: Spacious top floor 1 BR/1 BA apartment in Redwood City",
       "price": 2695,
       "city": "Redwood City",
       "dist": 3.4,
       "tier": 2,
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-pre-leasing-spacious-top/7937294576.html",
-      "source": "Craigslist",
-      "rank": 36
-    },
-    {
-      "title": "1bd/1ba, swimming pool, WiFi available",
-      "price": 2730,
-      "city": "Redwood City",
-      "dist": 3.4,
-      "tier": 2,
-      "tierLabel": "Other locations near Stanford",
-      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-ba-swimming-pool-wifi/7936699173.html",
       "source": "Craigslist",
       "rank": 37
     },
@@ -420,18 +420,18 @@
       "rank": 38
     },
     {
-      "title": "Spacious and well-maintained duplex available for rent",
-      "price": 2800,
+      "title": "In Redwood City, Laundry Facility, 1/BD",
+      "price": 2813,
       "city": "Redwood City",
       "dist": 3.4,
       "tier": 2,
       "tierLabel": "Other locations near Stanford",
-      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-spacious-and-well/7939216030.html",
+      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-in-redwood-city-laundry/7935361969.html",
       "source": "Craigslist",
       "rank": 39
     },
     {
-      "title": "1BD with granite counters, custom cabinetry",
+      "title": "1/BD, Granite Counters, Custom Cabinetry",
       "price": 2925,
       "city": "Redwood City",
       "dist": 3.4,
@@ -442,7 +442,18 @@
       "rank": 40
     },
     {
-      "title": "Lease a new 1 bedroom and receive one month free",
+      "title": "$3,295 / 1BR - Renovated Roosevelt Condo, Walk to Whole Foods",
+      "price": 3295,
+      "city": "Redwood City",
+      "dist": 3.4,
+      "tier": 2,
+      "tierLabel": "Other locations near Stanford",
+      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-br-renovated-roosevelt/7940654557.html",
+      "source": "Craigslist",
+      "rank": 41
+    },
+    {
+      "title": "Lease a New 1 Bedroom & Receive One Month Free",
       "price": 3010,
       "city": "Redwood City",
       "dist": 3.6,
@@ -450,21 +461,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-lease-new-bedroom-receive/7939665205.html",
       "source": "Craigslist",
-      "rank": 41
-    },
-    {
-      "title": "1BR renovated Roosevelt condo, walk to Whole Foods",
-      "price": 3295,
-      "city": "Redwood City",
-      "dist": 3.6,
-      "tier": 2,
-      "tierLabel": "Other locations near Stanford",
-      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-br-renovated-roosevelt/7940654557.html",
-      "source": "Craigslist",
       "rank": 42
     },
     {
-      "title": "Updated top floor end 1BR/1BA in central location",
+      "title": "Updated top floor, end 1 BR/1 BA in central location",
       "price": 2400,
       "city": "Mountain View",
       "dist": 6.8,
@@ -475,7 +475,7 @@
       "rank": 43
     },
     {
-      "title": "Newly renovated 1BR with amazing natural light and hardwood floors",
+      "title": "Newly Renovated 1BR with Amazing Natural Light & Hardwood Floors",
       "price": 2895,
       "city": "Mountain View",
       "dist": 6.8,
@@ -486,7 +486,7 @@
       "rank": 44
     },
     {
-      "title": "Renovated modern ground floor one bedroom with private yard",
+      "title": "Renovated and Modern Ground Floor One Bedroom with a Private Yard",
       "price": 3495,
       "city": "Mountain View",
       "dist": 6.8,
