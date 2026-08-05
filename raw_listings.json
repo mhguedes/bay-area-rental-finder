@@ -1,8 +1,8 @@
 {
- "updated": "Tuesday, August 4, 2026 at 7:51 AM",
+ "updated": "Wednesday, August 5, 2026 at 7:03 AM",
  "rows": [
   [
-   "Equipped, 1 bedroom suite near Facebook",
+   "Equipped 1 bedroom suite near Facebook",
    2000,
    "Menlo Park",
    "menlo_east",
@@ -18,7 +18,7 @@
    "Craigslist"
   ],
   [
-   "Luxurious, fully equipped, 1 bedroom suite near Facebook",
+   "Luxurious, fully equipped 1 bedroom suite near Facebook",
    2250,
    "Menlo Park",
    "menlo_east",
@@ -34,7 +34,7 @@
    "Craigslist"
   ],
   [
-   "Top floor corner 1br near Downtown Menlo Park! Parking included!",
+   "Top floor corner 1BR near Downtown Menlo Park, parking included",
    2495,
    "Menlo Park",
    "menlo_downtown",
@@ -42,7 +42,7 @@
    "Craigslist"
   ],
   [
-   "Charming 1 bed 1 bath in Lovely Menlo Park",
+   "Charming 1 bed 1 bath in lovely Menlo Park",
    2525,
    "Menlo Park",
    "menlo_downtown",
@@ -58,7 +58,7 @@
    "Craigslist"
   ],
   [
-   "Immaculate one bedroom conveniently located near Facebook",
+   "Immaculate one bedroom near Facebook",
    2250,
    "Menlo Park",
    "menlo_east",
@@ -66,7 +66,7 @@
    "Craigslist"
   ],
   [
-   "Lovely cozy little cottage tucked in the private corner of a garden",
+   "Lovely cozy cottage in private garden corner",
    1800,
    "Menlo Park",
    "menlo_downtown",
@@ -74,7 +74,7 @@
    "Craigslist"
   ],
   [
-   "Apartment, Furnished, near Stanford and SLAC",
+   "Furnished apartment near Stanford and SLAC",
    2350,
    "Menlo Park",
    "menlo_west",
@@ -82,7 +82,7 @@
    "Craigslist"
   ],
   [
-   "Laurel Oaks Apts, 1019 Laurel St #1025-02, Menlo Park",
+   "Laurel Oaks Apts, 1019 Laurel St #1025-02",
    3495,
    "Menlo Park",
    "menlo_downtown",
@@ -90,7 +90,7 @@
    "Zillow"
   ],
   [
-   "1031 Noel Dr APT E, Menlo Park",
+   "1031 Noel Dr APT E",
    2845,
    "Menlo Park",
    "menlo_downtown",
@@ -98,7 +98,7 @@
    "Zillow"
   ],
   [
-   "850 Coleman Ave APT 14, Menlo Park",
+   "850 Coleman Ave APT 14",
    2650,
    "Menlo Park",
    "menlo_coleman",
@@ -106,7 +106,7 @@
    "Zillow"
   ],
   [
-   "541 Pierce Rd APT 3, Menlo Park",
+   "541 Pierce Rd APT 3",
    2000,
    "Menlo Park",
    "menlo_east",
@@ -114,15 +114,7 @@
    "Zillow"
   ],
   [
-   "The Pines, 3465 Alameda De Las Pulgas, Menlo Park (1BR from $2,795)",
-   2795,
-   "Menlo Park",
-   "menlo_west",
-   "https://www.zillow.com/apartments/menlo-park-ca/the-pines/CkM9YF/",
-   "Zillow"
-  ],
-  [
-   "15 Coleman Pl APT 4, Menlo Park",
+   "15 Coleman Pl APT 4",
    2895,
    "Menlo Park",
    "menlo_coleman",
@@ -130,7 +122,23 @@
    "Zillow"
   ],
   [
-   "Rare find in Downtown Palo Alto close to Stanford university",
+   "The Pines, 3465 Alameda de las Pulgas (1BR from $2,795)",
+   2795,
+   "Menlo Park",
+   "menlo_west",
+   "https://www.zillow.com/apartments/menlo-park-ca/the-pines/CkM9YF/",
+   "Zillow"
+  ],
+  [
+   "Menlo Park 1BR/1BA, 400 sqft (undisclosed address)",
+   2050,
+   "Menlo Park",
+   "menlo_downtown",
+   "https://www.zillow.com/homedetails/Menlo-Park-CA-94025/442616307_zpid/",
+   "Zillow"
+  ],
+  [
+   "Rare find in Downtown Palo Alto close to Stanford",
    2550,
    "Palo Alto",
    "pa_downtown",
@@ -138,7 +146,7 @@
    "Craigslist"
   ],
   [
-   "Palo Alto House with Garden 1 Bed 1 Bath",
+   "Palo Alto house with garden, 1 bed 1 bath",
    3485,
    "Palo Alto",
    "pa_general",
@@ -154,7 +162,7 @@
    "Craigslist"
   ],
   [
-   "Palo Alto 1bd/1bath condo University and 101",
+   "Palo Alto 1bd/1bath condo, University and 101",
    2400,
    "Palo Alto",
    "pa_east",
@@ -170,7 +178,7 @@
    "Craigslist"
   ],
   [
-   "Perfect Location - Furnished Apt next to Stanford Campus",
+   "Perfect location: furnished apt next to Stanford campus",
    2995,
    "Stanford",
    "stanford",
@@ -186,7 +194,7 @@
    "Craigslist"
   ],
   [
-   "Parksquare Apartments, 4290 Wilkie Way #B, Palo Alto",
+   "Parksquare Apartments, 4290 Wilkie Way #B",
    3295,
    "Palo Alto",
    "pa_general",
@@ -194,7 +202,7 @@
    "Zillow"
   ],
   [
-   "Stanford Villa, 3375 Alma St, Palo Alto (1BR from $3,030)",
+   "Stanford Villa, 3375 Alma St (1BR from $3,030)",
    3030,
    "Palo Alto",
    "pa_general",
@@ -202,7 +210,7 @@
    "Zillow"
   ],
   [
-   "Curtner Villa Apartments, 267 Curtner Ave APT 12, Palo Alto",
+   "Curtner Villa Apartments, 267 Curtner Ave APT 12",
    2595,
    "Palo Alto",
    "pa_general",
@@ -210,7 +218,7 @@
    "Zillow"
   ],
   [
-   "Arastradero West Apartments, 724 Arastradero Rd, Palo Alto (1BR from $3,000)",
+   "Arastradero West Apartments, 724 Arastradero Rd (1BR from $3,000)",
    3000,
    "Palo Alto",
    "pa_general",
@@ -218,7 +226,7 @@
    "Zillow"
   ],
   [
-   "1875 University Ave #A, Palo Alto",
+   "1875 University Ave #A",
    3500,
    "Palo Alto",
    "pa_east",
@@ -226,7 +234,7 @@
    "Zillow"
   ],
   [
-   "962 Blair Ct, Palo Alto (1BR from $2,750)",
+   "962 Blair Ct (1BR from $2,750)",
    2750,
    "Palo Alto",
    "pa_general",
@@ -234,7 +242,7 @@
    "Zillow"
   ],
   [
-   "405 Kipling St APT 2, Palo Alto",
+   "405 Kipling St APT 2",
    2495,
    "Palo Alto",
    "pa_downtown",
@@ -242,11 +250,35 @@
    "Zillow"
   ],
   [
-   "1BR Renovated Roosevelt Condo | Walk to Whole Foods",
+   "Parker Palo Alto, 1094 Tanland Dr (1BR from $3,395)",
+   3395,
+   "Palo Alto",
+   "pa_general",
+   "https://www.zillow.com/apartments/palo-alto-ca/parker-palo-alto/5XjNCz/",
+   "Zillow"
+  ],
+  [
+   "Renovated Roosevelt condo, walk to Whole Foods",
    3295,
    "Redwood City",
    "rwc_general",
    "https://sfbay.craigslist.org/pen/apa/d/redwood-city-br-renovated-roosevelt/7940654557.html",
+   "Craigslist"
+  ],
+  [
+   "1BD, granite counters, custom cabinetry",
+   2925,
+   "Redwood City",
+   "rwc_general",
+   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-granite-counters-custom/7939597145.html",
+   "Craigslist"
+  ],
+  [
+   "1bd/1ba, swimming pool, WiFi available",
+   2730,
+   "Redwood City",
+   "rwc_general",
+   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-ba-swimming-pool-wifi/7936699173.html",
    "Craigslist"
   ],
   [
@@ -258,55 +290,7 @@
    "Craigslist"
   ],
   [
-   "PRE-LEASING: Spacious top floor 1 BR/1 BA apartment",
-   2695,
-   "Redwood City",
-   "rwc_general",
-   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-pre-leasing-spacious-top/7937294576.html",
-   "Craigslist"
-  ],
-  [
-   "1x1 Wonderful Apartment, Great Location!",
-   2123,
-   "Redwood City",
-   "rwc_general",
-   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-1x1-wonderful-apartment/7938987048.html",
-   "Craigslist"
-  ],
-  [
-   "Lovely, newly built property with a 1 Bedroom/1 Bath Apartment",
-   2123,
-   "Redwood City",
-   "rwc_general",
-   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-lovely-newly-built/7938708267.html",
-   "Craigslist"
-  ],
-  [
-   "Apartment for rent Redwood City",
-   2300,
-   "Redwood City",
-   "rwc_general",
-   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-apartment-for-rent-redwood/7938443707.html",
-   "Craigslist"
-  ],
-  [
-   "Updated 1/1 front unit with washer/dryer and private attached garage",
-   2600,
-   "Atherton",
-   "atherton",
-   "https://sfbay.craigslist.org/pen/apa/d/atherton-updated-1-front-unit-with/7940082247.html",
-   "Craigslist"
-  ],
-  [
-   "1/BD, Granite Counters, Custom Cabinetry",
-   2925,
-   "Redwood City",
-   "rwc_general",
-   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-granite-counters-custom/7939597145.html",
-   "Craigslist"
-  ],
-  [
-   "Lease a New 1 Bedroom & Receive One Month Free",
+   "New 1 bedroom downtown, one month free",
    3010,
    "Redwood City",
    "rwc_downtown",
@@ -314,7 +298,39 @@
    "Craigslist"
   ],
   [
-   "Updated top floor, end 1 BR/1 BA in central location",
+   "Pre-leasing: spacious top floor 1BR/1BA",
+   2695,
+   "Redwood City",
+   "rwc_general",
+   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-pre-leasing-spacious-top/7937294576.html",
+   "Craigslist"
+  ],
+  [
+   "1x1 wonderful apartment, great location",
+   2123,
+   "Redwood City",
+   "rwc_general",
+   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-1x1-wonderful-apartment/7938987048.html",
+   "Craigslist"
+  ],
+  [
+   "Apartment for rent, Redwood City",
+   2300,
+   "Redwood City",
+   "rwc_general",
+   "https://sfbay.craigslist.org/pen/apa/d/redwood-city-apartment-for-rent-redwood/7938443707.html",
+   "Craigslist"
+  ],
+  [
+   "Updated 1/1 front unit w/ washer-dryer, private garage",
+   2600,
+   "Atherton",
+   "atherton",
+   "https://sfbay.craigslist.org/pen/apa/d/atherton-updated-1-front-unit-with/7940082247.html",
+   "Craigslist"
+  ],
+  [
+   "Updated top floor end 1BR/1BA in central location",
    2400,
    "Mountain View",
    "mtv_general",
@@ -322,7 +338,7 @@
    "Craigslist"
   ],
   [
-   "Newly Renovated 1BR with Amazing Natural Light & Hardwood Floors",
+   "Newly renovated 1BR, natural light, hardwood floors",
    2895,
    "Mountain View",
    "mtv_general",
@@ -330,7 +346,7 @@
    "Craigslist"
   ],
   [
-   "Renovated and Modern Ground Floor One Bedroom with a Private Yard",
+   "Renovated ground-floor one bedroom with private yard",
    3495,
    "Mountain View",
    "mtv_general",
