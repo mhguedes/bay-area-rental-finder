@@ -1,5 +1,5 @@
 {
-  "updated": "Wednesday, August 26, 2026 at 7:49 AM",
+  "updated": "Thursday, August 27, 2026 at 7:07 AM",
   "listings": [
     {
       "title": "Lovely cozy cottage tucked in a private garden corner",
@@ -189,6 +189,17 @@
       "rank": 17
     },
     {
+      "title": "1 bed / 1 bath near Stanford",
+      "price": 1800,
+      "city": "Palo Alto",
+      "dist": 2.5,
+      "tier": 1,
+      "tierLabel": "Priority 2 \u00b7 Palo Alto",
+      "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-bed-bath-near-stanford/7941158233.html",
+      "source": "Craigslist",
+      "rank": 18
+    },
+    {
       "title": "1BR available - Palo Alto",
       "price": 2400,
       "city": "Palo Alto",
@@ -197,7 +208,7 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-1br-available/7940621210.html",
       "source": "Craigslist",
-      "rank": 18
+      "rank": 19
     },
     {
       "title": "Charming garden courtyard, newly remodeled 1BR",
@@ -208,7 +219,7 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-charming-garden-courtyard/7938839544.html",
       "source": "Craigslist",
-      "rank": 19
+      "rank": 20
     },
     {
       "title": "Close to restaurants and schools, BBQ - 1BR Palo Alto",
@@ -219,17 +230,6 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-close-to-restaurants-close-to/7941211920.html",
       "source": "Craigslist",
-      "rank": 20
-    },
-    {
-      "title": "1BR/1BA apartment on College Avenue - close to campus, 1-yr lease",
-      "price": 3100,
-      "city": "Palo Alto",
-      "dist": 2.5,
-      "tier": 1,
-      "tierLabel": "Priority 2 \u00b7 Palo Alto",
-      "url": "https://supost.com/post/1-br-1-ba-apartment-for-rent-college-avenue-close-to-campus-130103152",
-      "source": "SUpost",
       "rank": 21
     },
     {
@@ -332,6 +332,17 @@
       "rank": 30
     },
     {
+      "title": "Charming single story apartment in Redwood City - available now",
+      "price": 2700,
+      "city": "Redwood City",
+      "dist": 3.4,
+      "tier": 2,
+      "tierLabel": "Other locations near Stanford",
+      "url": "https://www.craigslist.org/view/d/redwood-city-charming-single-story/boEj1LyDFmx9vMZDeFvtGf",
+      "source": "Craigslist",
+      "rank": 31
+    },
+    {
       "title": "One bedroom waterfront condo on Cove Lane",
       "price": 2700,
       "city": "Redwood City",
@@ -340,7 +351,18 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://www.craigslist.org/view/d/redwood-city-one-bedroom-waterfront/rt3TitREQ79hvX1MS5mXCx",
       "source": "Craigslist",
-      "rank": 31
+      "rank": 32
+    },
+    {
+      "title": "1bd/1ba with WiFi and stainless-steel appliances",
+      "price": 2730,
+      "city": "Redwood City",
+      "dist": 3.4,
+      "tier": 2,
+      "tierLabel": "Other locations near Stanford",
+      "url": "https://www.craigslist.org/view/d/redwood-city-1bd-1ba-wifi-available/xabRUp4vL3HrnebtLFCKjS",
+      "source": "Craigslist",
+      "rank": 33
     },
     {
       "title": "Brand new 1 bedroom / 1 bathroom ADU",
@@ -351,18 +373,29 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://www.craigslist.org/view/d/redwood-city-brand-new-bedroom-bathroom/qVs2PSSenuEPrDQQFUmoyK",
       "source": "Craigslist",
-      "rank": 32
+      "rank": 34
     },
     {
-      "title": "Charming single story apartment in Redwood City - available now",
-      "price": 2900,
+      "title": "Affordable housing opportunity in Redwood City - 1BR",
+      "price": 2895,
       "city": "Redwood City",
       "dist": 3.4,
       "tier": 2,
       "tierLabel": "Other locations near Stanford",
-      "url": "https://www.craigslist.org/view/d/redwood-city-charming-single-story/boEj1LyDFmx9vMZDeFvtGf",
+      "url": "https://www.craigslist.org/view/d/redwood-city-affordable-housing/x2t7FThmaRGn21moA9RZz1",
       "source": "Craigslist",
-      "rank": 33
+      "rank": 35
+    },
+    {
+      "title": "1 bed with private patio in Redwood City",
+      "price": 2950,
+      "city": "Redwood City",
+      "dist": 3.4,
+      "tier": 2,
+      "tierLabel": "Other locations near Stanford",
+      "url": "https://www.craigslist.org/view/d/redwood-city-bed-situated-in-redwood/cJ3yQk6y4i8DXXZ4NYAMjg",
+      "source": "Craigslist",
+      "rank": 36
     },
     {
       "title": "Marymount Tower 1-bedroom apartment",
@@ -373,7 +406,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://www.craigslist.org/view/d/redwood-city-marymount-tower-bedroom/6dELnm8LoMAwbKo91W58Mo",
       "source": "Craigslist",
-      "rank": 34
+      "rank": 37
     },
     {
       "title": "Marymount Tower 1-bedroom apartment (alternate unit)",
@@ -384,7 +417,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://www.craigslist.org/view/d/redwood-city-marymount-tower-bedroom/xiDdyFfhENqFbxuoyUHaj4",
       "source": "Craigslist",
-      "rank": 35
+      "rank": 38
     },
     {
       "title": "Marymount Tower 1 bed / 1 bath",
@@ -395,7 +428,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://www.craigslist.org/view/d/redwood-city-marymount-tower-bed-bath/b3AB2caErtgzQ5g8NaszNR",
       "source": "Craigslist",
-      "rank": 36
+      "rank": 39
     },
     {
       "title": "Marymount Manor 1-bedroom apartment",
@@ -406,7 +439,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://www.craigslist.org/view/d/redwood-city-marymount-manor-bedroom/dJ1j3or54KaihnCBEcVDkH",
       "source": "Craigslist",
-      "rank": 37
+      "rank": 40
     },
     {
       "title": "Renovated Roosevelt condo 1BR - walk to Whole Foods",
@@ -417,7 +450,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-br-renovated-roosevelt/7940654557.html",
       "source": "Craigslist",
-      "rank": 38
+      "rank": 41
     },
     {
       "title": "Newly renovated 1BR with natural light and hardwood floors",
@@ -428,7 +461,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/sby/apa/d/mountain-view-newly-renovated-1br-with/7939923985.html",
       "source": "Craigslist",
-      "rank": 39
+      "rank": 42
     },
     {
       "title": "Renovated modern ground floor 1BR with private yard",
@@ -439,7 +472,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/sby/apa/d/mountain-view-renovated-and-modern/7938431232.html",
       "source": "Craigslist",
-      "rank": 40
+      "rank": 43
     },
     {
       "title": "Updated top floor end 1BR/1BA in central location",
@@ -450,7 +483,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/sby/apa/d/mountain-view-updated-top-floor-end-br/7940079646.html",
       "source": "Craigslist",
-      "rank": 41
+      "rank": 44
     }
   ]
 }
