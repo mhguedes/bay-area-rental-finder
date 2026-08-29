@@ -1,46 +1,277 @@
 {
-  "updated": "Friday, August 28, 2026 at 7:50 AM",
+  "updated": "Saturday, August 29, 2026 at 9:22 AM",
   "rows": [
-    ["Lovely cozy little cottage tucked in a private garden corner", 1800, "Menlo Park", "menlo_west", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-lovely-cozy-little-cottage/7936493194.html", "Craigslist"],
-    ["Sunny upstairs 1bd/1ba apt in great location", 2650, "Menlo Park", "menlo_west", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-sunny-upstairs-1bd-1ba-apt/7940373466.html", "Craigslist"],
-    ["Top floor corner 1BR near Downtown Menlo Park - parking included", 2495, "Menlo Park", "menlo_downtown", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-top-floor-corner-1br-near/7940600499.html", "Craigslist"],
-    ["Charming 1 bed / 1 bath in lovely Menlo Park", 2525, "Menlo Park", "menlo_downtown", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-charming-bed-bath-in-lovely/7940598058.html", "Craigslist"],
-    ["One bedroom within walking distance to downtown Menlo Park", 2200, "Menlo Park", "menlo_downtown", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-one-bedroom-in-wealking/7940507908.html", "Craigslist"],
-    ["Fully furnished one bedroom on Hamilton Ave, Menlo Park", 2300, "Menlo Park", "menlo_downtown", "https://supost.com/post/fully-furnished-one-bedroom-in-hamilton-ave-menlo-park-avail-130089130", "SUpost"],
-    ["15 Coleman Place Apartments - 1BR/1BA", 2895, "Menlo Park", "menlo_coleman", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-live-smart-live-cozy-live-at/7940595134.html", "Craigslist"],
-    ["East Menlo - 845 Pierce Rd. #2", 2300, "Menlo Park", "menlo_east", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-east-menlo-845-pierce-rd/7939611964.html", "Craigslist"],
-    ["Equipped 1 bedroom suite near Facebook", 2000, "Menlo Park", "menlo_east", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-equipped-bedroom-suite-near/7941219652.html", "Craigslist"],
-    ["Luxurious fully equipped 1 bedroom suite near Facebook", 2250, "Menlo Park", "menlo_east", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-luxurious-fully-equipped/7941167763.html", "Craigslist"],
-    ["Immaculate one bedroom conveniently located near Facebook", 2250, "Menlo Park", "menlo_east", "https://sfbay.craigslist.org/pen/apa/d/menlo-park-immaculate-one-bedroom/7939729442.html", "Craigslist"],
-    ["Rare find in Downtown Palo Alto, close to Stanford", 2550, "Palo Alto", "pa_downtown", "https://sfbay.craigslist.org/pen/apa/d/palo-alto-rare-find-in-downtown-palo/7941272541.html", "Craigslist"],
-    ["Excellent location - downtown, 2 blocks from University Ave", 2650, "Palo Alto", "pa_downtown", "https://sfbay.craigslist.org/pen/apa/d/palo-alto-excellent-location-downtown/7938695364.html", "Craigslist"],
-    ["Palo Alto house with garden, 1 bed / 1 bath", 3485, "Palo Alto", "pa_general", "https://sfbay.craigslist.org/pen/apa/d/palo-alto-palo-alto-house-with-garden/7941248479.html", "Craigslist"],
-    ["Close to restaurants and schools, BBQ - 1BR", 3070, "Palo Alto", "pa_general", "https://sfbay.craigslist.org/pen/apa/d/palo-alto-close-to-restaurants-close-to/7941211920.html", "Craigslist"],
-    ["1BR available - Palo Alto", 2400, "Palo Alto", "pa_general", "https://sfbay.craigslist.org/pen/apa/d/palo-alto-1br-available/7940621210.html", "Craigslist"],
-    ["Charming garden courtyard, newly remodeled 1BR", 2650, "Palo Alto", "pa_general", "https://sfbay.craigslist.org/pen/apa/d/palo-alto-charming-garden-courtyard/7938839544.html", "Craigslist"],
-    ["College Terrace ADU available October", 2000, "Palo Alto", "pa_general", "https://supost.com/post/collage-terrace-adu-available-october-130102792", "SUpost"],
-    ["1 BR/1 BA apartment, College Avenue - close to campus, 1-yr lease", 3100, "Palo Alto", "pa_general", "https://supost.com/post/1-br-1-ba-apartment-for-rent-college-avenue-close-to-campus-130103152", "SUpost"],
-    ["Immaculate private pool cabana - 8-min bike ride from Stanford", 3100, "Palo Alto", "pa_general", "https://supost.com/post/immaculate-private-pool-cabana-8-min-bike-ride-from-stanford-130103035", "SUpost"],
-    ["Bright & modern apartment in Palo Alto with courtyard access", 3500, "Palo Alto", "pa_general", "https://supost.com/post/bright-modern-apartment-in-palo-alto-courtyard-access-130102340", "SUpost"],
-    ["Palo Alto 1bd/1ba condo, University and 101", 2400, "Palo Alto", "pa_east", "https://sfbay.craigslist.org/pen/apa/d/palo-alto-palo-alto-1bd-1bath-condo/7940550723.html", "Craigslist"],
-    ["Furnished apartment next to Stanford campus", 2995, "Stanford", "stanford", "https://sfbay.craigslist.org/pen/apa/d/stanford-perfect-location-furnished-apt/7940955784.html", "Craigslist"],
-    ["Furnished apartment near Stanford and SLAC", 2350, "Atherton", "atherton", "https://sfbay.craigslist.org/pen/apa/d/atherton-apartment-furnished-near/7938531992.html", "Craigslist"],
-    ["Updated 1/1 front unit, washer/dryer + private attached garage", 2600, "Atherton", "atherton", "https://sfbay.craigslist.org/pen/apa/d/atherton-updated-1-front-unit-with/7940082247.html", "Craigslist"],
-    ["Guest house with private entrance, bath, bedroom, living/dining", 1840, "East Palo Alto", "epa", "https://sfbay.craigslist.org/pen/apa/d/palo-alto-guest-house-private-entrance/7936986828.html", "Craigslist"],
-    ["Renovated Roosevelt condo - walk to Whole Foods", 3295, "Redwood City", "rwc_downtown", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-br-renovated-roosevelt/7940654557.html", "Craigslist"],
-    ["Lease a new 1 bedroom and receive one month free", 3010, "Redwood City", "rwc_downtown", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-lease-new-bedroom-receive/7939665205.html", "Craigslist"],
-    ["Pre-leasing: spacious top floor 1BR/1BA in Redwood City", 2695, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-pre-leasing-spacious-top/7937294576.html", "Craigslist"],
-    ["Brand new 1 bedroom 1 bathroom ADU", 2750, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-brand-new-bedroom-bathroom/7940171798.html", "Craigslist"],
-    ["Spacious well-maintained duplex, 1BR", 2800, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-spacious-and-well/7939216030.html", "Craigslist"],
-    ["Apartment for rent, Redwood City", 2300, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-apartment-for-rent-redwood/7938443707.html", "Craigslist"],
-    ["1x1 wonderful apartment, great location", 2123, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-1x1-wonderful-apartment/7938987048.html", "Craigslist"],
-    ["Lovely newly built 1 bedroom / 1 bath apartment", 2123, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-lovely-newly-built/7938708267.html", "Craigslist"],
-    ["1bd/1ba with swimming pool, WiFi available", 2730, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-ba-swimming-pool-wifi/7936699173.html", "Craigslist"],
-    ["1bd/1ba, energy-efficient appliances, business center", 2830, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-energy-efficient/7935844179.html", "Craigslist"],
-    ["1BD with granite counters and custom cabinetry", 2925, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-granite-counters-custom/7939597145.html", "Craigslist"],
-    ["1BD in Redwood City with laundry facility", 2813, "Redwood City", "rwc_general", "https://sfbay.craigslist.org/pen/apa/d/redwood-city-in-redwood-city-laundry/7935361969.html", "Craigslist"],
-    ["Updated top floor end 1BR/1BA in central location", 2400, "Mountain View", "mtv_general", "https://sfbay.craigslist.org/sby/apa/d/mountain-view-updated-top-floor-end-br/7940079646.html", "Craigslist"],
-    ["Renovated modern ground floor one bedroom with private yard", 3495, "Mountain View", "mtv_general", "https://sfbay.craigslist.org/sby/apa/d/mountain-view-renovated-and-modern/7938431232.html", "Craigslist"],
-    ["Newly renovated 1BR with natural light and hardwood floors", 2895, "Mountain View", "mtv_downtown", "https://sfbay.craigslist.org/sby/apa/d/mountain-view-newly-renovated-1br-with/7939923985.html", "Craigslist"]
+    [
+      "Charming 1x1 at 545 University Dr - downtown Menlo Park, 300sf, pets OK",
+      2595,
+      "Menlo Park",
+      "menlo_downtown",
+      "https://www.craigslist.org/view/d/menlo-park-charming-1x1coming-available/1PmA1V48GSec6brTzgbKns",
+      "Craigslist"
+    ],
+    [
+      "Luxury Living at Coleman Arms - 1x1 limited special",
+      2525,
+      "Menlo Park",
+      "menlo_coleman",
+      "https://www.craigslist.org/view/d/menlo-park-luxury-living-at-coleman/e71rhePdgvqLesTLmw6vVn",
+      "Craigslist"
+    ],
+    [
+      "Top-Floor 1x1 in Menlo Park | Coleman Arms - move in today",
+      2525,
+      "Menlo Park",
+      "menlo_coleman",
+      "https://www.craigslist.org/view/d/menlo-park-move-in-today-top-floor-11/srzCV4eR5Qk9oCdFzvuqkK",
+      "Craigslist"
+    ],
+    [
+      "1x1 with dishwasher + microwave, Menlo Park",
+      2525,
+      "Menlo Park",
+      "menlo_coleman",
+      "https://www.craigslist.org/view/d/menlo-park-1x1-dishwasher-microwave/mbTiNNzY3jHtP4aruVmPkB",
+      "Craigslist"
+    ],
+    [
+      "Live at 15 Coleman Place Apartments - 1BR",
+      2895,
+      "Menlo Park",
+      "menlo_coleman",
+      "https://sfbay.craigslist.org/pen/apa/d/menlo-park-live-smart-live-cozy-live-at/7940595134.html",
+      "Craigslist"
+    ],
+    [
+      "East Menlo - 845 Pierce Rd. #2, 1BR/1BA",
+      2300,
+      "Menlo Park",
+      "menlo_east",
+      "https://sfbay.craigslist.org/pen/apa/d/menlo-park-east-menlo-845-pierce-rd/7939611964.html",
+      "Craigslist"
+    ],
+    [
+      "Updated 1/1 front unit, washer/dryer + private attached garage",
+      2600,
+      "Atherton",
+      "atherton",
+      "https://sfbay.craigslist.org/pen/apa/d/atherton-updated-1-front-unit-with/7940082247.html",
+      "Craigslist"
+    ],
+    [
+      "Rare find in Downtown Palo Alto, close to Stanford University",
+      2550,
+      "Palo Alto",
+      "pa_downtown",
+      "https://sfbay.craigslist.org/pen/apa/d/palo-alto-rare-find-in-downtown-palo/7941272541.html",
+      "Craigslist"
+    ],
+    [
+      "Excellent location - downtown, 2 blocks from University Ave",
+      2650,
+      "Palo Alto",
+      "pa_downtown",
+      "https://sfbay.craigslist.org/pen/apa/d/palo-alto-excellent-location-downtown/7938695364.html",
+      "Craigslist"
+    ],
+    [
+      "Charming garden courtyard 1BR, newly remodeled",
+      2650,
+      "Palo Alto",
+      "pa_general",
+      "https://sfbay.craigslist.org/pen/apa/d/palo-alto-charming-garden-courtyard/7938839544.html",
+      "Craigslist"
+    ],
+    [
+      "Palo Alto 1bd/1ba condo, University and 101",
+      2400,
+      "Palo Alto",
+      "pa_east",
+      "https://sfbay.craigslist.org/pen/apa/d/palo-alto-palo-alto-1bd-1bath-condo/7940550723.html",
+      "Craigslist"
+    ],
+    [
+      "1BR available in Palo Alto",
+      2400,
+      "Palo Alto",
+      "pa_general",
+      "https://sfbay.craigslist.org/pen/apa/d/palo-alto-1br-available/7940621210.html",
+      "Craigslist"
+    ],
+    [
+      "Close to restaurants, close to schools, BBQ - 1BR",
+      3070,
+      "Palo Alto",
+      "pa_general",
+      "https://sfbay.craigslist.org/pen/apa/d/palo-alto-close-to-restaurants-close-to/7941211920.html",
+      "Craigslist"
+    ],
+    [
+      "Palo Alto house with garden, 1 bed 1 bath",
+      3485,
+      "Palo Alto",
+      "pa_general",
+      "https://sfbay.craigslist.org/pen/apa/d/palo-alto-palo-alto-house-with-garden/7941248479.html",
+      "Craigslist"
+    ],
+    [
+      "Furnished apartment next to Stanford campus",
+      2995,
+      "Stanford",
+      "stanford",
+      "https://sfbay.craigslist.org/pen/apa/d/stanford-perfect-location-furnished-apt/7940955784.html",
+      "Craigslist"
+    ],
+    [
+      "Guest house with private entrance, bath, bedroom, living/dining",
+      1840,
+      "East Palo Alto",
+      "epa",
+      "https://sfbay.craigslist.org/pen/apa/d/palo-alto-guest-house-private-entrance/7936986828.html",
+      "Craigslist"
+    ],
+    [
+      "1x1 wonderful apartment, great location",
+      2123,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-1x1-wonderful-apartment/7938987048.html",
+      "Craigslist"
+    ],
+    [
+      "Lovely, newly built 1 bedroom / 1 bath apartment",
+      2123,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-lovely-newly-built/7938708267.html",
+      "Craigslist"
+    ],
+    [
+      "Apartment for rent, Redwood City 1BR",
+      2300,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-apartment-for-rent-redwood/7938443707.html",
+      "Craigslist"
+    ],
+    [
+      "PRE-LEASING: spacious top floor 1BR/1BA in Redwood City",
+      2695,
+      "Redwood City",
+      "rwc_downtown",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-pre-leasing-spacious-top/7937294576.html",
+      "Craigslist"
+    ],
+    [
+      "1bd/1ba with swimming pool, WiFi available",
+      2730,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-ba-swimming-pool-wifi/7936699173.html",
+      "Craigslist"
+    ],
+    [
+      "1 bedroom, energy-efficient appliances, Redwood City",
+      2730,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bedroom-redwood-city-ca/7935876404.html",
+      "Craigslist"
+    ],
+    [
+      "Brand new 1 bedroom 1 bathroom ADU",
+      2750,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-brand-new-bedroom-bathroom/7940171798.html",
+      "Craigslist"
+    ],
+    [
+      "Spacious and well-maintained duplex, 1BR",
+      2800,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-spacious-and-well/7939216030.html",
+      "Craigslist"
+    ],
+    [
+      "1/BD laundry facility in Redwood City",
+      2813,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-in-redwood-city-laundry/7935361969.html",
+      "Craigslist"
+    ],
+    [
+      "1bd/1ba, energy-efficient appliances, business center",
+      2830,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-energy-efficient/7935844179.html",
+      "Craigslist"
+    ],
+    [
+      "1/BD granite counters, custom cabinetry",
+      2925,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-granite-counters-custom/7939597145.html",
+      "Craigslist"
+    ],
+    [
+      "Close to park, 1/BD in Redwood City",
+      2925,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-close-to-park-bd-in/7939614015.html",
+      "Craigslist"
+    ],
+    [
+      "Lease a new 1 bedroom and receive one month free",
+      3010,
+      "Redwood City",
+      "rwc_downtown",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-lease-new-bedroom-receive/7939665205.html",
+      "Craigslist"
+    ],
+    [
+      "Renovated Roosevelt condo 1BR, walk to Whole Foods",
+      3295,
+      "Redwood City",
+      "rwc_downtown",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-br-renovated-roosevelt/7940654557.html",
+      "Craigslist"
+    ],
+    [
+      "Bike storage, on-site dog park, washer & dryer included",
+      3355,
+      "Redwood City",
+      "rwc_general",
+      "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bike-storage-on-site-dog/7940485832.html",
+      "Craigslist"
+    ],
+    [
+      "Updated top floor, end 1BR/1BA in central location",
+      2400,
+      "Mountain View",
+      "mtv_downtown",
+      "https://sfbay.craigslist.org/sby/apa/d/mountain-view-updated-top-floor-end-br/7940079646.html",
+      "Craigslist"
+    ],
+    [
+      "Newly renovated 1BR with natural light & hardwood floors",
+      2895,
+      "Mountain View",
+      "mtv_general",
+      "https://sfbay.craigslist.org/sby/apa/d/mountain-view-newly-renovated-1br-with/7939923985.html",
+      "Craigslist"
+    ],
+    [
+      "Renovated modern ground floor 1BR with private yard",
+      3495,
+      "Mountain View",
+      "mtv_general",
+      "https://sfbay.craigslist.org/sby/apa/d/mountain-view-renovated-and-modern/7938431232.html",
+      "Craigslist"
+    ]
   ]
 }
