@@ -1,5 +1,5 @@
 {
-  "updated": "Sunday, August 30, 2026 at 8:05 AM",
+  "updated": "Monday, August 31, 2026 at 7:05 AM",
   "listings": [
     {
       "title": "Charming 1x1 in Menlo Park - available now",
@@ -35,7 +35,7 @@
       "rank": 3
     },
     {
-      "title": "15 Coleman Place Apartments - 1BR, Menlo Park",
+      "title": "15 Coleman Place Apartments - 1BR/1BA",
       "price": 2895,
       "city": "Menlo Park",
       "dist": 0.8,
@@ -46,7 +46,7 @@
       "rank": 4
     },
     {
-      "title": "East Menlo - 845 Pierce Rd #2 (1bd/1ba)",
+      "title": "East Menlo - 845 Pierce Rd. #2, 1BR/1BA",
       "price": 2300,
       "city": "Menlo Park",
       "dist": 2.6,
@@ -79,7 +79,7 @@
       "rank": 7
     },
     {
-      "title": "1BR available - Palo Alto",
+      "title": "Palo Alto 1BR available",
       "price": 2400,
       "city": "Palo Alto",
       "dist": 2.5,
@@ -112,7 +112,7 @@
       "rank": 10
     },
     {
-      "title": "1BR close to restaurants and schools, BBQ area",
+      "title": "1BR/1BA close to restaurants and schools, BBQ",
       "price": 3070,
       "city": "Palo Alto",
       "dist": 2.5,
@@ -123,7 +123,7 @@
       "rank": 11
     },
     {
-      "title": "Palo Alto house with garden - 1 bed / 1 bath",
+      "title": "Palo Alto house with garden - 1 bed 1 bath",
       "price": 3485,
       "city": "Palo Alto",
       "dist": 2.5,
@@ -134,7 +134,7 @@
       "rank": 12
     },
     {
-      "title": "Palo Alto 1bd/1ba condo - University Ave & 101",
+      "title": "Palo Alto 1bd/1bath condo - University and 101",
       "price": 2400,
       "city": "Palo Alto",
       "dist": 3.9,
@@ -145,7 +145,7 @@
       "rank": 13
     },
     {
-      "title": "Updated 1/1 front unit, washer/dryer + private attached garage (Atherton)",
+      "title": "Updated 1/1 front unit, washer/dryer + private attached garage",
       "price": 2600,
       "city": "Atherton",
       "dist": 0.9,
@@ -189,7 +189,7 @@
       "rank": 17
     },
     {
-      "title": "Newly built property with 1 bedroom / 1 bath apartment",
+      "title": "Newly built 1 bedroom / 1 bath apartment",
       "price": 2123,
       "city": "Redwood City",
       "dist": 3.4,
@@ -200,7 +200,18 @@
       "rank": 18
     },
     {
-      "title": "Pre-leasing: spacious top-floor 1BR/1BA in Redwood City",
+      "title": "Apartment for rent, Redwood City 1BR",
+      "price": 2300,
+      "city": "Redwood City",
+      "dist": 3.4,
+      "tier": 2,
+      "tierLabel": "Other locations near Stanford",
+      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-apartment-for-rent-redwood/7938443707.html",
+      "source": "Craigslist",
+      "rank": 19
+    },
+    {
+      "title": "Pre-leasing: spacious top floor 1BR/1BA in Redwood City",
       "price": 2695,
       "city": "Redwood City",
       "dist": 3.4,
@@ -208,10 +219,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-pre-leasing-spacious-top/7937294576.html",
       "source": "Craigslist",
-      "rank": 19
+      "rank": 20
     },
     {
-      "title": "1BD/1BA with swimming pool, WiFi available",
+      "title": "1bd/1ba with swimming pool, WiFi available",
       "price": 2730,
       "city": "Redwood City",
       "dist": 3.4,
@@ -219,10 +230,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-ba-swimming-pool-wifi/7936699173.html",
       "source": "Craigslist",
-      "rank": 20
+      "rank": 21
     },
     {
-      "title": "Brand new 1 bedroom / 1 bathroom ADU",
+      "title": "Brand new 1 bedroom 1 bathroom ADU",
       "price": 2750,
       "city": "Redwood City",
       "dist": 3.4,
@@ -230,7 +241,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-brand-new-bedroom-bathroom/7940171798.html",
       "source": "Craigslist",
-      "rank": 21
+      "rank": 22
     },
     {
       "title": "Spacious well-maintained duplex 1BR",
@@ -241,10 +252,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-spacious-and-well/7939216030.html",
       "source": "Craigslist",
-      "rank": 22
+      "rank": 23
     },
     {
-      "title": "1BD/1BA with laundry facility - Redwood City",
+      "title": "Redwood City 1BD with laundry facility",
       "price": 2813,
       "city": "Redwood City",
       "dist": 3.4,
@@ -252,10 +263,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-in-redwood-city-laundry/7935361969.html",
       "source": "Craigslist",
-      "rank": 23
+      "rank": 24
     },
     {
-      "title": "1BD/1BA, energy-efficient appliances, business center",
+      "title": "1bd/1ba with energy-efficient appliances and business center",
       "price": 2830,
       "city": "Redwood City",
       "dist": 3.4,
@@ -263,10 +274,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-energy-efficient/7935844179.html",
       "source": "Craigslist",
-      "rank": 24
+      "rank": 25
     },
     {
-      "title": "1BD/1BA, granite counters, custom cabinetry",
+      "title": "1BD with granite counters and custom cabinetry",
       "price": 2925,
       "city": "Redwood City",
       "dist": 3.4,
@@ -274,18 +285,18 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-granite-counters-custom/7939597145.html",
       "source": "Craigslist",
-      "rank": 25
+      "rank": 26
     },
     {
-      "title": "New Redwood City 1 bedroom - one month free",
+      "title": "New 1 bedroom - one month free",
       "price": 3010,
       "city": "Redwood City",
       "dist": 3.4,
       "tier": 2,
       "tierLabel": "Other locations near Stanford",
-      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-redwood-city-bedrooms-one/7940084596.html",
+      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-lease-new-bedroom-receive/7939665205.html",
       "source": "Craigslist",
-      "rank": 26
+      "rank": 27
     },
     {
       "title": "1BR with bike storage, dog park, washer & dryer included",
@@ -295,17 +306,6 @@
       "tier": 2,
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bike-storage-on-site-dog/7940485832.html",
-      "source": "Craigslist",
-      "rank": 27
-    },
-    {
-      "title": "Apartment for rent - Redwood City 1BR",
-      "price": 2300,
-      "city": "Redwood City",
-      "dist": 3.6,
-      "tier": 2,
-      "tierLabel": "Other locations near Stanford",
-      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-apartment-for-rent-redwood/7938443707.html",
       "source": "Craigslist",
       "rank": 28
     },
@@ -321,7 +321,7 @@
       "rank": 29
     },
     {
-      "title": "Updated top-floor end 1BR/1BA, central Mountain View",
+      "title": "Updated top floor end unit 1BR/1BA, central location",
       "price": 2400,
       "city": "Mountain View",
       "dist": 6.8,
@@ -332,7 +332,7 @@
       "rank": 30
     },
     {
-      "title": "Newly renovated 1BR with natural light & hardwood floors",
+      "title": "Newly renovated 1BR with natural light and hardwood floors",
       "price": 2895,
       "city": "Mountain View",
       "dist": 6.8,
@@ -343,7 +343,7 @@
       "rank": 31
     },
     {
-      "title": "Renovated ground-floor one bedroom with private yard",
+      "title": "Renovated ground floor one bedroom with private yard",
       "price": 3495,
       "city": "Mountain View",
       "dist": 6.8,
