@@ -1,5 +1,5 @@
 {
-  "updated": "Friday, September 4, 2026 at 10:40 AM",
+  "updated": "Sunday, September 6, 2026 at 7:05 AM",
   "listings": [
     {
       "title": "Lovely cozy little cottage tucked in the private corner of a garden",
@@ -35,7 +35,7 @@
       "rank": 3
     },
     {
-      "title": "Charming 1 bed 1 bath in lovely Menlo Park",
+      "title": "Charming 1 bed 1 bath in Lovely Menlo Park",
       "price": 2525,
       "city": "Menlo Park",
       "dist": 0.5,
@@ -57,7 +57,7 @@
       "rank": 5
     },
     {
-      "title": "Live Smart. Live Cozy. Live at 15 Coleman Place Apartments!",
+      "title": "Live Smart. Live Cozy. Live at 15 Coleman Place Apartments",
       "price": 2895,
       "city": "Menlo Park",
       "dist": 0.8,
@@ -134,7 +134,7 @@
       "rank": 12
     },
     {
-      "title": "1br available (Palo Alto)",
+      "title": "1br available",
       "price": 2400,
       "city": "Palo Alto",
       "dist": 2.5,
@@ -156,7 +156,18 @@
       "rank": 14
     },
     {
-      "title": "Close to restaurants, close to schools, BBQ",
+      "title": "UPDATED: 1BR/1BA apt near Stanford & California Ave - min 1 yr lease",
+      "price": 3000,
+      "city": "Palo Alto",
+      "dist": 2.5,
+      "tier": 1,
+      "tierLabel": "Priority 2 \u00b7 Palo Alto",
+      "url": "https://supost.com/post/updated-1br-1ba-apt-available-near-stanford-california-ave-m-130105168",
+      "source": "SUpost",
+      "rank": 15
+    },
+    {
+      "title": "Close to Restaurants, Close to Schools, BBQ",
       "price": 3070,
       "city": "Palo Alto",
       "dist": 2.5,
@@ -164,10 +175,10 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-close-to-restaurants-close-to/7941211920.html",
       "source": "Craigslist",
-      "rank": 15
+      "rank": 16
     },
     {
-      "title": "Palo Alto house with garden, 1 bed 1 bath",
+      "title": "Palo Alto House with Garden 1 Bed 1 Bath",
       "price": 3485,
       "city": "Palo Alto",
       "dist": 2.5,
@@ -175,7 +186,7 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-palo-alto-house-with-garden/7941248479.html",
       "source": "Craigslist",
-      "rank": 16
+      "rank": 17
     },
     {
       "title": "Palo Alto 1bd/1bath condo, University and 101",
@@ -186,10 +197,10 @@
       "tierLabel": "Priority 2 \u00b7 Palo Alto",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-palo-alto-1bd-1bath-condo/7940550723.html",
       "source": "Craigslist",
-      "rank": 17
+      "rank": 18
     },
     {
-      "title": "Apartment, furnished, near Stanford and SLAC",
+      "title": "Apartment, Furnished, near Stanford and SLAC",
       "price": 2350,
       "city": "Atherton",
       "dist": 0.9,
@@ -197,10 +208,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/atherton-apartment-furnished-near/7938531992.html",
       "source": "Craigslist",
-      "rank": 18
+      "rank": 19
     },
     {
-      "title": "Updated 1/1 front unit with washer/dryer and private attached garage!",
+      "title": "Updated 1/1 front unit with washer/dryer and private attached garage",
       "price": 2600,
       "city": "Atherton",
       "dist": 0.9,
@@ -208,10 +219,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/atherton-updated-1-front-unit-with/7940082247.html",
       "source": "Craigslist",
-      "rank": 19
+      "rank": 20
     },
     {
-      "title": "Perfect location - furnished apt next to Stanford campus",
+      "title": "Perfect Location - Furnished Apt next to Stanford Campus",
       "price": 2995,
       "city": "Stanford",
       "dist": 1.7,
@@ -219,7 +230,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/stanford-perfect-location-furnished-apt/7940955784.html",
       "source": "Craigslist",
-      "rank": 20
+      "rank": 21
     },
     {
       "title": "Guest house w/ private entrance, bath, bedroom, living/dining",
@@ -230,10 +241,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/palo-alto-guest-house-private-entrance/7936986828.html",
       "source": "Craigslist",
-      "rank": 21
+      "rank": 22
     },
     {
-      "title": "1x1 wonderful apartment, great location!",
+      "title": "1x1 Wonderful Apartment, Great Location!",
       "price": 2123,
       "city": "Redwood City",
       "dist": 3.4,
@@ -241,10 +252,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-1x1-wonderful-apartment/7938987048.html",
       "source": "Craigslist",
-      "rank": 22
+      "rank": 23
     },
     {
-      "title": "Lovely, newly built property with a 1 bedroom/1 bath apartment",
+      "title": "Lovely, newly built property with a 1 Bedroom/1 Bath Apartment",
       "price": 2123,
       "city": "Redwood City",
       "dist": 3.4,
@@ -252,10 +263,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-lovely-newly-built/7938708267.html",
       "source": "Craigslist",
-      "rank": 23
+      "rank": 24
     },
     {
-      "title": "Apartment for rent, Redwood City",
+      "title": "Apartment for rent Redwood City",
       "price": 2300,
       "city": "Redwood City",
       "dist": 3.4,
@@ -263,7 +274,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-apartment-for-rent-redwood/7938443707.html",
       "source": "Craigslist",
-      "rank": 24
+      "rank": 25
     },
     {
       "title": "PRE-LEASING: Spacious top floor 1 BR/1 BA apartment in Redwood City",
@@ -274,10 +285,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-pre-leasing-spacious-top/7937294576.html",
       "source": "Craigslist",
-      "rank": 25
+      "rank": 26
     },
     {
-      "title": "1/bd 1/ba, swimming pool, WiFi available",
+      "title": "1/bd 1/ba, Swimming Pool, WiFi Available",
       "price": 2730,
       "city": "Redwood City",
       "dist": 3.4,
@@ -285,7 +296,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-bd-ba-swimming-pool-wifi/7936699173.html",
       "source": "Craigslist",
-      "rank": 26
+      "rank": 27
     },
     {
       "title": "Brand new 1 bedroom 1 bathroom ADU",
@@ -296,7 +307,7 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-brand-new-bedroom-bathroom/7940171798.html",
       "source": "Craigslist",
-      "rank": 27
+      "rank": 28
     },
     {
       "title": "Spacious and well-maintained duplex available for rent",
@@ -307,10 +318,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-spacious-and-well/7939216030.html",
       "source": "Craigslist",
-      "rank": 28
+      "rank": 29
     },
     {
-      "title": "In Redwood City, laundry facility, 1/BD",
+      "title": "In Redwood City, Laundry Facility, 1/BD",
       "price": 2813,
       "city": "Redwood City",
       "dist": 3.4,
@@ -318,21 +329,10 @@
       "tierLabel": "Other locations near Stanford",
       "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-in-redwood-city-laundry/7935361969.html",
       "source": "Craigslist",
-      "rank": 29
-    },
-    {
-      "title": "Energy-efficient appliances, business center, 1bd 1ba",
-      "price": 2830,
-      "city": "Redwood City",
-      "dist": 3.4,
-      "tier": 2,
-      "tierLabel": "Other locations near Stanford",
-      "url": "https://sfbay.craigslist.org/pen/apa/d/redwood-city-energy-efficient/7935844179.html",
-      "source": "Craigslist",
       "rank": 30
     },
     {
-      "title": "1/BD, granite counters, custom cabinetry",
+      "title": "1/BD, Granite Counters, Custom Cabinetry",
       "price": 2925,
       "city": "Redwood City",
       "dist": 3.4,
@@ -343,7 +343,7 @@
       "rank": 31
     },
     {
-      "title": "Lease a new 1 bedroom & receive one month free",
+      "title": "Lease a New 1 Bedroom & Receive One Month Free",
       "price": 3010,
       "city": "Redwood City",
       "dist": 3.6,
@@ -354,7 +354,7 @@
       "rank": 32
     },
     {
-      "title": "$3,295 / 1BR - Renovated Roosevelt condo, walk to Whole Foods",
+      "title": "$3,295 / 1BR - Renovated Roosevelt Condo | Walk to Whole Foods",
       "price": 3295,
       "city": "Redwood City",
       "dist": 3.6,
@@ -365,18 +365,18 @@
       "rank": 33
     },
     {
-      "title": "Updated top floor, end 1 BR/1 BA in central location",
-      "price": 2400,
+      "title": "Newly Renovated 1BR with Amazing Natural Light & Hardwood Floors",
+      "price": 2895,
       "city": "Mountain View",
       "dist": 6.8,
       "tier": 2,
       "tierLabel": "Other locations near Stanford",
-      "url": "https://sfbay.craigslist.org/sby/apa/d/mountain-view-updated-top-floor-end-br/7940079646.html",
+      "url": "https://sfbay.craigslist.org/sby/apa/d/mountain-view-newly-renovated-1br-with/7939923985.html",
       "source": "Craigslist",
       "rank": 34
     },
     {
-      "title": "Renovated and modern ground floor one bedroom with a private yard",
+      "title": "Renovated and Modern Ground Floor One Bedroom with a Private Yard",
       "price": 3495,
       "city": "Mountain View",
       "dist": 6.8,
@@ -387,13 +387,13 @@
       "rank": 35
     },
     {
-      "title": "Newly renovated 1BR with amazing natural light & hardwood floors",
-      "price": 2895,
+      "title": "Updated top floor, end 1 BR/1 BA in central location",
+      "price": 2400,
       "city": "Mountain View",
       "dist": 7.0,
       "tier": 2,
       "tierLabel": "Other locations near Stanford",
-      "url": "https://sfbay.craigslist.org/sby/apa/d/mountain-view-newly-renovated-1br-with/7939923985.html",
+      "url": "https://sfbay.craigslist.org/sby/apa/d/mountain-view-updated-top-floor-end-br/7940079646.html",
       "source": "Craigslist",
       "rank": 36
     }
